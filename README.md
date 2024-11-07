@@ -26,5 +26,11 @@ This project explores different machine learning models and architectures for po
 
 2. **Modeling with Transformers**:  
    - A Transformer-based model captures temporal dependencies between landmarks across frames, showing promising accuracy on the task.
+  
+## Live Demo
+
+A live demo of this pose detection model can be accessed and interacted with at:
+
+[www.doronbenchayim.com](http://www.doronbenchayim.com)
 
 
