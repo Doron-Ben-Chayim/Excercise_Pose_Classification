@@ -2,6 +2,14 @@
 
 This repository contains code and models for detecting poses in videos using a Transformer-based model and an ensemble approach. The project aims to process sequences of frames, extract meaningful features, and leverage sequential modeling to improve pose detection accuracy. While promising, current results indicate further refinement is needed to achieve practical classifier performance.
 
+## Data Source
+
+The data used in this project was sourced from the following Kaggle dataset:
+
+[Workout Fitness Video Dataset](https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data?source=post_page-----7f8972ee8370--------------------------------)
+
+This dataset contains various workout and fitness videos, which were processed and used for pose detection and sequence analysis.
+
 ## Project Overview
 
 This project explores different machine learning models and architectures for pose detection in video data, specifically:
